@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-#### Steve is interested in using Visual Basic Applications (VBA) to automate the process of evaluating stock data. To facilitate Steve’s data analysis, we’ll refactor the code to ensure the VBA script is as fast and efficient as possible.
+#### Steve is interested in using Visual Basic Applications (VBA) to automate the process of evaluating stock data. To facilitate Steve’s data analysis, we’ll refactor the code to ensure the VBA script is as fast, efficient, and user-friendly as possible. 
 
 ## Results
 

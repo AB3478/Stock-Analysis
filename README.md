@@ -16,4 +16,4 @@ It took a total of 2.08 seconds to run the 2017 results. The execution time for 
 
 ![](https://github.com/AB3478/Stock-Analysis/blob/main/Resources/Stock%20Analysis%202017.png)
 
-![]()
+![](https://github.com/AB3478/Stock-Analysis/blob/main/Resources/Stock%20Analysis%202018.png)

@@ -14,6 +14,6 @@
 
 It took a total of 2.08 seconds to run the 2017 results. The execution time for 2017 was approximately 2 seconds; the execution time for 2018 was approximately 2.5 seconds. Refactoring the code significantly reduced the run times for both 2017 and 2018, see below:
 
-![]()
+![](https://github.com/AB3478/Stock-Analysis/blob/main/Resources/Stock%20Analysis%202017.png)
 
 ![]()

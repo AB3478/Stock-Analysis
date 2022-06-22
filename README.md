@@ -12,7 +12,7 @@
 
 ![](https://github.com/AB3478/Stock-Analysis/blob/main/Resources/Stock%20Analysis%20Results.png%202018.png)
 
-It took a total of 2.08 seconds to run the 2017 results. The execution time for 2017 was approximately 2 seconds; the execution time for 2018 was approximately 2.5 seconds. Refactoring the code significantly reduced the run times for both 2017 and 2018, see below:
+#### The execution time for 2017 was approximately 2 seconds; the execution time for 2018 was approximately 2.5 seconds. Refactoring the code reduced the run times for both 2017 and 2018, see below:
 
 ![](https://github.com/AB3478/Stock-Analysis/blob/main/Resources/Stock%20Analysis%202017.png)
 
@@ -22,6 +22,10 @@ It took a total of 2.08 seconds to run the 2017 results. The execution time for 
 
 ### What are the advantages or disadvantages of refactoring code? 
 
--	Refactoring code helps not only the person reading the results, but also the programmer. Steve can now use the readable code as well as a run button to conduct his data analysis more efficiently and easily share the results. Refactoring also helps reduce the run time of macros; if Steve is interested in larger data sets, refactoring can significantly help reduce the run time of macros. 
+-	Refactoring code helps not only the person reading the results, but also the programmer. Steve can now use the readable code as well as a run button to conduct his data analysis more efficiently and easily share the results. Refactoring also helps reduce the run time of macros; if Steve is interested in larger data sets, refactoring can help macros run more efficiently.
 
 -	Refactoring is time consuming, and in our case, only saved a couple of seconds. For smaller data sets, it may not be cost-efficient. If not done correctly, refactoring can also introduce bugs.
+
+### How do these pros and cons apply to refactoring the original VBA script?
+
+- Refactoring the VBA script made the code easier to understand and helped execute the macros faster. However, the data set was small enough that refactoring did not make a meaningful difference in overall run time.

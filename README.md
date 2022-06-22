@@ -17,3 +17,11 @@ It took a total of 2.08 seconds to run the 2017 results. The execution time for 
 ![](https://github.com/AB3478/Stock-Analysis/blob/main/Resources/Stock%20Analysis%202017.png)
 
 ![](https://github.com/AB3478/Stock-Analysis/blob/main/Resources/Stock%20Analysis%202018.png)
+
+## Summary
+
+### What are the advantages or disadvantages of refactoring code? 
+
+-	Refactoring code helps not only the person reading the results, but also the programmer. Steve can now use the readable code as well as a run button to conduct his data analysis more efficiently and easily share the results. Refactoring also helps reduce the run time of macros; if Steve is interested in larger data sets, refactoring can significantly help reduce the run time of macros. 
+
+-	Refactoring is time consuming, and in our case, only saved a couple of seconds. For smaller data sets, it may not be cost-efficient. If not done correctly, refactoring can also introduce bugs.
